@@ -8,11 +8,11 @@
 *.youtube-nocookie.com
 
 *.gghpt.com
-#*.google111video.com
+*.googlevideo.com
 *.wide-youtube.l.google.com
 *.youtube-ui.l.google.com
 *.youtube.googleapis.com
-#*.youtubei.google111apis.com
+#*.youtubei.googleapis.com
 *.youtubeembeddedplayer.googleapis.com
 *.youtubemobilesupport.com
 
