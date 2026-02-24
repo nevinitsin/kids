@@ -32,6 +32,8 @@
 *.yandex.com
 *.dzen.ru
 *.ok.ru
+*.okcdn.ru
+*.mycdn.me
 *.odnoklassniki.ru
 *.vkvideo.ru
 *.vkvideo.com
@@ -39,9 +41,12 @@
 *.vk.com
 
 *.fb.com
+*.fbcdn.net
+*.fbcdn.com
 *.facebook.com
 *.instagram.com
 *.tiktok.com
+*.tiktokcdn.com
 *.snapchat.com
 *.redgifs.com
 *.reddit.com
