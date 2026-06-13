@@ -11,7 +11,7 @@
 #*.googlevideo.com
 *.wide-youtube.l.google.com
 *.youtube-ui.l.google.com
-*.youtube.googleapis.com
+#*.youtube.googleapis.com
 #*.youtubei.googleapis.com
 *.youtubeembeddedplayer.googleapis.com
 *.youtubemobilesupport.com
